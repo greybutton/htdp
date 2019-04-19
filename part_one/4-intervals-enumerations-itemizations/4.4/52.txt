@@ -1,0 +1,11 @@
+closed interval
+[3,5] = 3, 4, 5
+
+left-open interval
+(3,5] = 4, 5
+
+right-open interval
+[3,5) = 3, 4
+
+open interval
+(3,5) = 4
